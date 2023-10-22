@@ -8,3 +8,5 @@ This was a very long process to create the Playbill, Posters, Logos, and other g
 3. Getting photos and bios of all the actors for publication in the Playbill.
 4. Designing and producing all artwork for final printing using Adobe Photoshop, Adobe Illustrator, Adobe Acrobat, and Canva.
 5. Working with local vendors to print the final files and arrange for delivery in time for performances.
+
+To view the posters in your browser, click the JPG file in the list of files in the repository list. To view the Playbill PDF, click the PDF file, then click the View Raw link to download the file to view on your computer.
